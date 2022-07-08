@@ -1,4 +1,4 @@
-# Re-Max-4.3-Report-ROBLOX
+# Re-Max-4.3-Report-ROBLOX, THIS ONLY WORKS ON WINDOWS, IDK IF ITS FOR MAC
 Hello there, i created an report bot for roblox! It is very fast and report 10 people in a second, using a nanosecond fast and secure proxy.     
 
 IMPORTANT: You need these packages installed: 
