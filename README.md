@@ -6,6 +6,10 @@ IMPORTANT: You need these packages installed:
 2. "prompt-sync"
 3. "html-loader"
 
+IMPORTANT: You also need Node.js in order for the application to work.
+
+You can install node.js here: https://nodejs.org/en/
+
 You can install the following like this:
 1. npm i gradient-string
 2. npm install --save prompt-sync-history
