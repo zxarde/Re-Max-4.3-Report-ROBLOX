@@ -6,8 +6,15 @@ IMPORTANT: You need these packages installed:
 2. "prompt-sync"
 3. "html-loader"
 
+You can install the following like this:
+1. npm i gradient-string
+2. npm install --save prompt-sync-history
+3. npm install --save-dev html-loader
+
+After that follow the step on how to run the file.
+
 How to run?
-1. Download the file. 
+1. Download the JS file. 
 2. Put it in any Directory.
 3. Open Terminal
 4. Navigate to the directory of the FILE. BUT DONT SELECT THE FILE. THE DIRECTORY IS THE PARENT OF THE FILE (cd "Your Directory")
